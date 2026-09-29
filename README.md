@@ -1,31 +1,21 @@
-# Ben Muhammed Emin Arslan - Kişisel Web Sitesi 🌐  
+# Muhammed Emin Arslan — Full Stack Developer
 
-Bu proje, kişisel web sitemin kaynak kodlarını içermektedir. Web sitem, **HTML**, **CSS**, **Bootstrap** ve **JavaScript** kullanılarak tasarlanmış; modern ve kullanıcı dostu bir tasarıma sahiptir.  
+Web, mobil ve masaüstü uygulamaları geliştiren kişisel portföy sitesi. Statik HTML, CSS ve JavaScript ile hazırlanmıştır.
 
-## 🎯 Projenin Amacı  
-Kendi portföyümü ve yetkinliklerimi sergileyerek, potansiyel işverenler ve bağlantılarla iletişim kurmak. Aynı zamanda, yazılım mühendisliği konusundaki becerilerimi ve tasarım anlayışımı yansıtmaktadır.  
+Canlı: [muhammedeminarslanfinalprojesi.netlify.app](https://muhammedeminarslanfinalprojesi.netlify.app/)
 
----
+Özgeçmiş: `Yazılım_Mühendisi_Muhammed_Emin_Arslan_cv.pdf`
 
-## 🚀 Özellikler  
-Web sitem şu bölümlerden oluşmaktadır:  
-1. **Ana Sayfa**  
-   - Genel bir hoş geldiniz mesajı ve dikkat çekici bir tasarım.  
-2. **Hakkımda**  
-   - Kendimi tanıttığım, eğitimim, kariyer hedeflerim ve kişisel bilgilerimi paylaştığım bölüm.  
-3. **Yetkinlikler**  
-   - Teknik becerilerim (programlama dilleri, araçlar ve teknolojiler) ve uzmanlık alanlarım.  
-4. **Portföy**  
-   - Daha önce tamamladığım projelerden örnekler ve projelerle ilgili detaylar.  
-5. **İletişim**  
-   - Bana ulaşmak için gerekli iletişim bilgileri ve form alanı.  
+## Yerelde çalıştırma
 
----
+```bash
+npx serve .
+```
 
-## 🛠️ Kullanılan Teknolojiler  
-- **HTML5**  
-- **CSS3**  
-- **Bootstrap 5**  
-- **JavaScript**  
+veya herhangi bir statik sunucu ile kök dizini açın.
 
----
+## İçerik
+
+- Hakkımda, deneyim, seçili projeler, yetkinlikler ve iletişim
+- Netlify Forms ile iletişim formu
+- Güncel özgeçmiş indirme bağlantısı

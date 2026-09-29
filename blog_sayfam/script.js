@@ -1,4 +1,4 @@
-const texts = [" Yazılım Mühendisiyim,", " Mobil Geliştiriciyim,", " Web Geliştiriciyim,"];
+const texts = [" Full Stack Developer’ım,", " Web geliştiriciyim,", " Mobil ve masaüstü ürünler üretiyorum,"];
 let count = 0;
 let index = 0;
 let currentText = texts[count];
